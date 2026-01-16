@@ -1,0 +1,14 @@
+# Fichiers système
+.DS_Store
+.directory
+Thumbs.db
+
+# Fichiers temporaires et logs
+*.log
+*.tmp
+*.swp
+
+# Sécurité (à ne JAMAIS envoyer)
+.env
+*.pem
+*.key
