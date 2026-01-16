@@ -1,0 +1,2 @@
+Configuration de base d’un client
+Les options de configuration reconnues par Git tombent dans deux catégories : côté client et côté serveur. La grande majorité se situe côté client pour coller à vos préférences personnelles de travail.
